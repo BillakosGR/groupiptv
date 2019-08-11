@@ -4,4 +4,4 @@
 
 ## Usage
 
-To watch IPTV you just need to paste this link `http://tiny.cc/4qh1az` to any player with support M3U-playlists.
+Για να δειτε τα IPTV κανάλια θα πρέπει να περάσετε αυτό το λινκ `https://raw.githubusercontent.com/BillakosGR/groupiptv/master/GROUP.m3u` σε κάποιο IPTV Player.
