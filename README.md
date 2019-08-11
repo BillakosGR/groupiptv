@@ -4,4 +4,4 @@
 
 ## Usage
 
-To watch IPTV you just need to paste this link `` to any player with support M3U-playlists.
+To watch IPTV you just need to paste this link `http://tiny.cc/4qh1az` to any player with support M3U-playlists.
