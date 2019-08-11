@@ -4,7 +4,7 @@
 
 ## Usage
 
-To watch IPTV you just need to paste this link `https://raw.githubusercontent.com/freearhey/iptv/master/index.m3u` to any player with support M3U-playlists.
+To watch IPTV you just need to paste this link `` to any player with support M3U-playlists.
 
 Below you can find a manually selected list of such applications for different platforms.
 
@@ -26,9 +26,9 @@ Below you can find a manually selected list of such applications for different p
 
 If your application does not support nested playlists, you can instead use one of these playlists:
 
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.full.m3u` (grouped by country and content)
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.country.m3u` (grouped by country)
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.content.m3u` (grouped by content) 
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.sport.m3u` (contains only sports channels) 
+- `` (grouped by country and content)
+- `` (grouped by country)
+- `` (grouped by content) 
+- `` (contains only sports channels) 
 
 Or select a playlist for a specific country from the list below.
