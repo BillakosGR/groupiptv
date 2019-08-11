@@ -218,10 +218,10 @@ http://136.243.89.7-1/r_kontra_gr
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=4TxS3Je89Iw
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.2-11.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 
 #EXTINF:-1, group-title="CINEMA" tvg-logo="http://i.imgur.com/WVqJAhQ.png",NATURA TV 
@@ -263,7 +263,7 @@ http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP 2
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/4E.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:2-1-1/kids
 
 #EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
@@ -389,7 +389,7 @@ rtmp://176.9.123.14-1:1935/santorini/santorini
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
 https://www.youtube.com/watch?v=A8eYODcxvwI
 
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp-1YiN.png",LYCHNOS
@@ -404,43 +404,43 @@ http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66
 #EXTINF:-1, group-title="CINEMA" tvg-logo="http://i.imgur.com/7TV9bZY.png",PALMOS TV
 http://138.2-11.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS TV
 http://o98d-1njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/lF7tUV8.png",MANA ELLADA TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/lF7tUV8.png",MANA ELLADA TV
 http://iphone-streaming.ustream.tv/uhls/17-199727/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/nwInqes.png",MESSINIA TV
 http://176.9.123.14-1:1935/messinia/messinia/master.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/-1Ovqq2f.png",TILESPORT
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/-1Ovqq2f.png",TILESPORT
 rtmp://78.47.151.114/tilesport/movie1
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://cretatv.gr/wp-content/uploads/2-116/-14/CRETA-TV-%CE%A7%CE%91%CE%9D%CE%99%CE%91-logo-n.png",CRETA TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://cretatv.gr/wp-content/uploads/2-116/-14/CRETA-TV-%CE%A7%CE%91%CE%9D%CE%99%CE%91-logo-n.png",CRETA TV
 rtmp://94.23.218.186:1935/cretatv/cretatv
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://www.tv14.net/wp-content/uploads/2-11-1/1-1/Hellenic-TV.jpg",HELLENIC TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://www.tv14.net/wp-content/uploads/2-11-1/1-1/Hellenic-TV.jpg",HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb99-1ekhc8-1gfht1cq3
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/uet8P2n.jpg",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/ZTIWHBd.png",NEW TV
 http://wowzacontrol.com:1935/81-18/81-18/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://4.bp.blogspot.com/-PGt5s-1oF9c-1/VYHPzZ37HHI/AAAAAAAAB-1k/fAimOda2Rtg/s16-1-1/tinos%2Btv%2B-1-11.jpg",TINOS TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://4.bp.blogspot.com/-PGt5s-1oF9c-1/VYHPzZ37HHI/AAAAAAAAB-1k/fAimOda2Rtg/s16-1-1/tinos%2Btv%2B-1-11.jpg",TINOS TV
 http://stream--15.vty.dailymotion.com/49/dm/1/x49eqwt/live.isml/events(live-147-1894388)/live-audio=128-1-1-1-video=12-1-1-1-1-1.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://www.greekradio.net/graphics/chwb.png",MONTREAL TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://www.greekradio.net/graphics/chwb.png",MONTREAL TV
 http://iphone-streaming.ustream.tv/uhls/2259-156-1/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://i.imgur.com/Fs1wQbm.png",HELLAS TV
 http://176.9.123.14-1:1935/hellastv/_definst_/mp4:stream/master.m3u8
 
-#EXTINF:-1, group-title="Radio & WEBTV" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/-1/4/3/1-143472-1/7855735.jpg",APOKALIPSI WEBTV
+#EXTINF:-1, group-title="Radio and WEBTV & WEBTV" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/-1/4/3/1-143472-1/7855735.jpg",APOKALIPSI WEBTV
 https://www.youtube.com/watch?v=Wakk2pw-1ELM
 
 #EXTINF:-1,PROTO PROGRAMMA 91.6
@@ -867,7 +867,7 @@ http://live3.istoikona.net:8278/;stream.nsv
 http://81.4.181.74:88/broadwave.mp3
 
 #EXTINF:-1,LOVE FM 1-1-1.7
-http://eradio.networksolutions.com.cy:1935/LoveRadio & WEBTV/Loveradio.stream/playlist.m3u8
+http://eradio.networksolutions.com.cy:1935/LoveRadio and WEBTV & WEBTV/Loveradio.stream/playlist.m3u8
 
 #EXTINF:-1,RADIO CAPITAL 1-11.4
 http://81.4.144.146:8-1-1-1/live
