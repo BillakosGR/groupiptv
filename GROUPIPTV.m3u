@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Sports 1
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6447
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Sports 2
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6448
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Sports 3
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Cinema 1
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/77730
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Cinema 2
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
@@ -18,31 +18,31 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Nova", Nova Cinema 4
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/77729
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Sports 1
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4743
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Sports 2
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4742
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Sports 3
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4741
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Sports 4
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4740
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Sports 5
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4739
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Cinema 1
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4748
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Cinema 2
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4747
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Cinema 3
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4746
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cosmote", Cosmote Cinema 4
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4745
