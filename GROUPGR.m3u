@@ -91,7 +91,6 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Greece", WZRA Kids
 mmsh://wpso.com:200/kids?MSWMExt=.asf
-
 #EXTINF:0,PROTO PROGRAMMA 91.6
 http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
 #EXTINF:0,DEUTERO PROGRAMMA 102.9
