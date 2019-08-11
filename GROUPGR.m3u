@@ -218,10 +218,10 @@ http://136.243.89.7-1/r_kontra_gr
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/W6G798P.png",ALERT TV
 https://www.youtube.com/watch?v=4TxS3Je89Iw
 
-#EXTINF:-1, group-title="WEB TV" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
+#EXTINF:-1, group-title="Radio" tvg-logo="http://i.imgur.com/ulePitj.png",DIAVATA TV
 http://138.2-11.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 
-#EXTINF:-1, group-title="WEB TV" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
+#EXTINF:-1, group-title="Radio" tvg-logo="http://i.imgur.com/5j4BfAu.png",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 
 #EXTINF:-1, group-title="CINEMA" tvg-logo="http://i.imgur.com/WVqJAhQ.png",NATURA TV 
@@ -263,7 +263,7 @@ http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/yMPAiaq.png",4E BUP 2
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/4E.m3u8
 
-#EXTINF:-1, group-title="WEB TV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
+#EXTINF:-1, group-title="Radio" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:2-1-1/kids
 
 #EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
@@ -389,7 +389,7 @@ rtmp://176.9.123.14-1:1935/santorini/santorini
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/z9YLCnG.png",TV MYTILINI
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
 
-#EXTINF:-1, group-title="WEB TV" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
+#EXTINF:-1, group-title="Radio" tvg-logo="http://i.imgur.com/QUYJeJ5.png",MAKELEIO TV
 https://www.youtube.com/watch?v=A8eYODcxvwI
 
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Glp-1YiN.png",LYCHNOS
