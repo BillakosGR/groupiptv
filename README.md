@@ -30,5 +30,3 @@ If your application does not support nested playlists, you can instead use one o
 - `` (grouped by country)
 - `` (grouped by content) 
 - `` (contains only sports channels) 
-
-Or select a playlist for a specific country from the list below.
