@@ -443,6 +443,9 @@ http://176.9.123.14-1:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:-1, group-title="WEB TV" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/-1/4/3/1-143472-1/7855735.jpg",APOKALIPSI WEBTV
 https://www.youtube.com/watch?v=Wakk2pw-1ELM
 
+#EXTINF:-1, group-title="RADIO" tvg-logo="http://www.radioapokalipsi.gr/uploads/1/-1/4/3/1-143472-1/7855735.jpg",RADIO
+https://www.youtube.com/watch?v=Wakk2pw-1ELM
+
 #EXTINF:-1,PROTO PROGRAMMA 91.6
 http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
 
