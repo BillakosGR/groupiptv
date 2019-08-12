@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", Ολυμπιακός
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ 2", 4E TV
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 
