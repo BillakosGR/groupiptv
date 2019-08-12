@@ -463,3 +463,2436 @@ http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/997/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports 2", XSPORT HD
 http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/996/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/abolatv_pl.png" group-title="TV | Portugal Sports", PT | A BOLA TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1141
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/btv.png" group-title="TV | Portugal Sports", PT | BTV 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1131
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/eurosport1.png" group-title="TV | Portugal Sports", PT | EUROSPORT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1162
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/eurosport1.png" group-title="TV | Portugal Sports", PT | EUROSPORT 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1130
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/motorvisiontv_pl.png" group-title="TV | Portugal Sports", PT | MOTORVISION TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1174
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/portocanal_pt.png" group-title="TV | Portugal Sports", PT | PORTO CANAL
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1183
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/pt/BenficaTV1.pt.png" group-title="TV | Portugal Sports", PT | BENFICA TV FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97945
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/pt/BenficaTV1.pt.png" group-title="TV | Portugal Sports", PT | BENFICA TV HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97944
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | SPORTING
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97828
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | SPORT TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1119
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv1_pt.png" group-title="TV | Portugal Sports", PT* | SPORT TV 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1220
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv1_pt.png" group-title="TV | Portugal Sports", PT | SPORT TV 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1194
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv2_pt.png" group-title="TV | Portugal Sports", PT | SPORT TV 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1221
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv3_pt.png" group-title="TV | Portugal Sports", PT | SPORT TV 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1196
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv4_pt.png" group-title="TV | Portugal Sports", PT | SPORT TV 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1115
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.iptv-kijken.nl/wp-content/uploads/2018/07/sporttv5_pt.png" group-title="TV | Portugal Sports", PT | SPORT TV 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/1200
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23552
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23551
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 3 ( ONLY LIVE EVENTS )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23550
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 4 ( ONLY LIVE EVENTS )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23549
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 5 ( ONLY LIVE EVENTS )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 6 ( ONLY LIVE EVENTS )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/23547
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 1 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 1 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97845
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 2 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97843
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 3 HD [EVENT]
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97841
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 4 HD [EVENT]
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97839
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 5 HD [EVENT]
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97837
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | ELEVEN SPORTS 6 HD [EVENT]
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97835
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | KOMBAT SPORT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Portugal Sports", PT | NBA HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/97780
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="TV | Spain Sports", ES | Real Madrid TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/649
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mytvonline.nl/picons/barcatv.png" group-title="TV | Spain Sports", ES | Barca TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/648
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/beINSports.es.png" group-title="TV | Spain Sports", ES | Bein Sports
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/709
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/Eurosport1.es.png" group-title="TV | Spain Sports", ES | Eurosport 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/654
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/Eurosport2.es.png" group-title="TV | Spain Sports", ES | Eurosport 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/Gol.es.png" group-title="TV | Spain Sports", ES | GOL TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/700
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="TV | Spain Sports", ES | LA Liga TV BAR
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/702
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/MovistarFormula1.es.png" group-title="TV | Spain Sports", ES | M. Formula 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/690
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/MovistarFutbol.es.png" group-title="TV | Spain Sports", ES | M. Futbol
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/699
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="TV | Spain Sports", ES | M. Golf
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/684
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/es/MovistarMotoGP.es.png" group-title="TV | Spain Sports", ES | Movistar Moto GP
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/687
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", LA LIGA 1|2|3 TV HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/51684
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", ES HD+ | Teledeporte (TDP)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/83376
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", ES | TV 3  CATALUNYA
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/102407
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", ES | TV 33 CATALUNYA
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/102406
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", ES | TV3 CATALUNYA
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/102409
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | BARCA TV SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110079
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | BEIN LIGA FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110076
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | BEIN LIGA SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110077
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | EUROSPORT 2 SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110031
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | EURSPRT 1 SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110030
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | GOL SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110022
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LALIGATVBAR FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110004
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LALIGATVBAR SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110005
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LIGA1|2|3 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LIGA1|2|3 M1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110007
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LIGA1|2|3 M2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110006
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LIGA1|2|3 SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110010
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | LIGA1|2|3FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/110008
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES 1 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109991
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES 1 SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109992
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES 2 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109989
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES 2 SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109990
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES 3 FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109988
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109987
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.DPRTES SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109993
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.LCAMPNS FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109977
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | M.LCAMPNS SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109978
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Formula 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109984
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Formula 1 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109983
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Futbol
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109982
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Futbol HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109981
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Golf
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109980
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | Movistar Golf HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109979
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Spain Sports", Spain | T.MADRID FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/109943
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 1 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20304
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 2 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20303
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 3 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20302
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 4 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20301
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 5 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20300
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 6 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20299
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 7 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20298
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 8 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20297
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 9 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20296
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: My Sports 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20295
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: Teleclub Sky Sport 3 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20307
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: Teleclub Sport 1 4K
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20306
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss: Teleclub Sport 2 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/20305
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss | Teleclub Sport 1 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91711
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Swiss Sports", Swiss | Teleclub Sport 2 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91710
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Tivibu Sport 2 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/7921
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Tivibu Sport 3 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/7920
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Tivibu Sport 4 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/7919
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Tivibu Sport 1 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/7922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | S Sport HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/12346
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEiN SPORT HABER HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14451
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 1 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14463
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 1 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14462
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 2 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14461
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 2 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14460
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 3 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14459
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 3 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14458
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 4 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14457
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS 4 HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14456
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS MAX 1 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14455
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORTS MAX 2 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/14452
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Bein Sports MAX 3 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/154553
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Bein Sports MAX 4 4K+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/154554
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | A SPOR HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19438
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | A SPOR HD+
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/7881
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | TRT SPOR
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/18440
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | EUROSPORT 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19412
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | EUROSPORT 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19411
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | S SPORT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19406
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | SMART SPOR
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19398
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | SPORTS TV-HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19397
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | TRT 3 - TRT Spor
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/19449
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BEIN SPORT 1 VIP
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129989
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BJK TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129985
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | BURSA TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129911
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Fenerbahce TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129986
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Galatasaray TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129984
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Saran Spor HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129988
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | Turkye Sports", TR | Smart Spor 1 HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/129987
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", UK | SKY SPORTS BOX OFFICE 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79889
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", ==== NBA LEAGUE TEAM CHANNELS =====
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79736
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", ==== NBA LEAUGE PASS OPTION A =====
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79705
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="TV | USA Sports", US | CBS SPORTS NETWORK | HD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80122
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="TV | USA Sports", US | NBC GOLF CHANNEL | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79898
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="TV | USA Sports", US | CBS SPORTS NETWORK | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80132
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/UFCTV.us.png" group-title="TV | USA Sports", US | UFC NETWORK | SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79855
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/ESPNDeportes.us.png" group-title="TV | USA Sports", US | ESPN DEPORTES | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80131
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN GOAL LINE | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80130
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/UFCTV.us.png" group-title="TV | USA Sports", US | UFC FIGHT NETWORK | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80129
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/FoxSports1.us.png" group-title="TV | USA Sports", US | FOX SPORTS 1 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80128
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="TV | USA Sports", US | FOX SPORTS 2 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80127
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS YES | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80126
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB STRIKE ZONE | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80125
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MOTORSPORTS TV | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80124
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="TV | USA Sports", US | NBC GOLF CHANNEL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80121
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="TV | USA Sports", US | NBC Sports Network | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80120
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NFL Network | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80123
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | RED BULL TV | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80119
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/SpectrumSportsNetLA.us.png" group-title="TV | USA Sports", US | SPORTSNET LA (Los Angeles) | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80118
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="TV | USA Sports", US | TENNIS CHANNEL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80117
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | TYC SPORTS | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/80116
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL NETWORK | HD (24/7 Coverage)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79805
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL 24/7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79585
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 1: Newcastle United V Manchester City (29/01-7:50PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79658
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 10: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79649
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 11: NO GAMES TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79648
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 2: Manchester United V Burnley (29/01-7:50PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79657
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 3: Arsenal V Cardiff City (29/01-7:45PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79656
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 4: Wolverhampton Wanderers V West Ham United (29/01-7:45PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79655
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 5: Huddersfield Town V Everton (29/01-7:45PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79654
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 6: Fulham V Brighton & Hove Albion (29/01-7:45PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79653
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 7: Arsenal V Chelsea (19/01-5:15PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 8: Huddersfield Town V Manchester City (20/01-1PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL 9: Fulham V Tottenham Hotspur (20/01-3:30PM GMT)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79650
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 1 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79608
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 2 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79607
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 3 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79606
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 4 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79605
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 5 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79604
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 6 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79603
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: Flow Sports 7 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79602
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC GOLD MOSIAC
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79640
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 1 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79647
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 2 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79646
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 3 | UHD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79645
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 4 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79644
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 5 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79643
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 6 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79642
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD 7 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79641
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", EPL: NBC SPORTS GOLD GOAL RUSH | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79639
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", Fox Soccer Match Pass 1 | UHD (Match Time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79600
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", Fox Soccer Match Pass 2 | UHD (Match Time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79599
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", Fox Soccer Match Pass 3 | UHD (Match Time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79598
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", Fox Soccer Match Pass 4 | UHD (Match Time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79597
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", Fox Soccer Match Pass 5 | UHD (Match time only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLB (24/7 Coverage) | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79885
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79788
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79779
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79777
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79776
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79775
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79787
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79786
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79785
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79784
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 6
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79783
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79782
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 8
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79781
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", MLS SOCCER 9
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79780
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79674
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 1: BACKUP - Grizzlies at Hornets (2.01-7PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79703
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 1: Grizzlies at Hornets (2.01-7PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79704
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79665
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 10 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79685
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 10: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79686
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79664
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 11 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79683
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 11: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79684
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79663
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 12 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79681
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 12: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79682
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79662
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 13 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79679
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 13: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79680
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79661
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 14 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79677
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 14: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79678
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79660
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 15 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79675
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 15: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79676
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79673
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 2: BACKUP - Celtics at Knicks (2.01-7:30PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79701
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 2: Celtics at Knicks (2.01-7:30PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79702
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79672
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 3: BACKUP - Thunder at Heat (2.01-8PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79699
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 3: Thunder at Heat (2.01-8PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79700
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79671
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 4: BACKUP - Hawks at Jazz (2.01-9PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79697
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 4: Hawks at Jazz (2.01-9PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79698
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79670
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 5 BACKUP: Rockets at Nuggets (2.01-10PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79695
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 5: Rockets at Nuggets (2.01-10PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79696
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 6
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79669
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 6 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79693
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 6: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79694
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79668
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 7 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79691
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 7: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79692
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 8
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79667
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 8 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79689
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 8: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79690
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 9
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79666
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 9 BACKUP: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79687
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA 9: NO GAME TODAY
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79688
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: ATLANTA HAWKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79735
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: BOSTON CELTICS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79734
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: BROOKLYN NETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79733
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: CHARLOTTE HORNETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79732
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: CHICAGO BULLS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79731
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: CLEVELAND CAVALIERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79730
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: DALLAS MAVERICKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79729
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: DENVER NUGGETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79728
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: DETROIT PISTONS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79727
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: GOLDEN STATE WARRIORS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79726
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: HOUSTON ROCKETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79725
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: INDIANA PACERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79724
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: LOS ANGELES CLIPPERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79723
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: LOS ANGELES LAKERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79722
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: MEMPHIS GRIZZLIES
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79721
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: MIAMI HEAT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79720
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: MILWAUKEE BUCKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79719
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: MINNESOTA TIMBERWOLVES
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79718
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: NEW ORLEANS PELICANS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79717
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: NEW YORK KNICKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79716
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: OKLAHOMA CITY THUNDER
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79715
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: ORLANDO MAGIC
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79714
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: PHILADELPHIA 76ERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79713
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: PHOENIX SUNS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79712
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: PORTLAND TRAIL BLAZERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79711
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: SACRAMENTO KINGS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79710
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: SAN ANTONIO SPURS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79709
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: TORONTO RAPTORS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79708
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: UTAH JAZZ
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79707
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TEAM: WASHINGTON WIZARDS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79706
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NBA TV (24/7 Coverage)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79884
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 1 BACKUP: AFC Pro Bowl at NFC Pro Bowl (1.27-3PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79838
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 10 BACKUP: Bears at Vikings (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79820
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 11 BACKUP: Bengals at Steelers (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79818
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 12 BACKUP: Eagles at Redskins (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79816
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 13 BACKUP: Chargers at Broncos (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79814
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 14 BACKUP: 49ers at Rams (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79811
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 15 BACKUP: Cardinals at Seahawks (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79809
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 16 BACKUP: Colts at Titans (12.30-8:20PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79807
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 2 BACKUP: Patriots at Chiefs (1.20-6:40PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79836
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 3 BACKUP: Chargers at Patriots (1.13-1:05PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79834
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 4 BACKUP: Eagles at Saints (1.13-4:40PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79832
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 5 BACKUP: Panthers at Saints (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79830
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 6 BACKUP: Cowboys at Giants (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79828
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 7 BACKUP: Falcons at Buccaneers (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79826
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 8 BACKUP: Browns at Ravens (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79824
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL 9 BACKUP: Raiders at Chiefs (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79822
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 10: Bears at Vikings (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79821
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 11: Bengals at Steelers (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79819
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL Gamepass 12: Eagles at Redskins (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79817
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 13: Chargers at Broncos (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79815
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 14: 49ers at Rams (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79812
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 15: Cardinals at Seahawks (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79810
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 16: Colts at Titans (12.30-8:20PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79808
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 2: Patriots at Chiefs (1.20-6:40PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79837
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 3: Chargers at Patriots (1.13-1:05PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79835
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 4: Eagles at Saints (1.13-4:40PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79833
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 5: Panthers at Saints (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79831
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 6: Cowboys at Giants (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79829
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 7: Falcons at Buccaneers (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79827
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 8: Browns at Ravens (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79825
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL GamePass 9: Raiders at Chiefs (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79823
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL NETWORK (24/7 Coverage)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79883
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL RED ZONE (WATCH MULTIPLE GAMES)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79882
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL SUPERBOWL LIII (02.03-6:30PM ET) | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79839
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Arizona Cardinals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79769
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Atlanta Falcons
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79768
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Baltimore Ravens
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79767
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Buffalo Bills
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79766
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Carolina Panthers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79765
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Chicago Bears
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79764
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Cincinnati Bengals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79763
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Cleveland Browns
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79762
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Dallas Cowboys
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79761
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Denver Broncos
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79760
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Detroit Lions
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79759
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Green Bay Packers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79758
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Houston Texans
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79757
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Indianapolis Colts
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79756
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Jacksonville Jaguars
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79755
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Kansas City Chiefs
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79754
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Los Angeles Chargers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79753
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Los Angeles Rams
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79752
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Miami Dolphins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79751
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Minnesota Vikings
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79750
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: New England Patriots
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79749
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: New Orleans Saints
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79748
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: New York Giants
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79747
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: New York Jets
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Oakland Raiders
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79745
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Philadelphia Eagles
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79744
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Pittsburgh Steelers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79743
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: San Francisco 49ers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79742
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Seattle Seahawks
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79741
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Tampa Bay Buccaneers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79740
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Tennessee Titans
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79739
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NFL: Washington Redskins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79738
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 1:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79804
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79795
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79794
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79793
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79792
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79791
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79790
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79803
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79802
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79801
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 6
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79799
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79798
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 8
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79797
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", NHL Center Ice Plus 9
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79796
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 1 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79594
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 2 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79593
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 3 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79592
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 4 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79591
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 5 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79590
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 6 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79589
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 7 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79588
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 8 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79587
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NRL LIVE 9 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79586
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: BOXING 1 | Munguia vs Inoue (1.26 7PM EST)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: BOXING 2 | Munguia vs Inoue (1.26-7PM EST)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79845
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: BOXING 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79844
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: BOXING 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79843
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: BOXING 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79842
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: MMA | EVENT LINK 2 -  GLORY 63 - SUPERFIGHT SERIES (01 Feb 8:00 PM)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79851
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: MMA EVENT LINK 1 - GLORY 63 PRELIMS (01 Feb 6:30 PM)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79852
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: MMA EVENT LINK 3 -  XFN 356 (01 Feb 9:00 PM)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79850
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: UFC | FIGHT NIGHT- ASSUNCAO VS MORAES 2 | MAINCARD | 02.01 (4:00 PM ET) | 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79858
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: UFC | FIGHT NIGHT- ASSUNCAO VS MORAES 2 | MAINCARD | 02.02 (8:00 PM ET) | 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79857
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: UFC | FIGHT NIGHT- ASSUNCAO VS MORAES 2 | PRELIMS | 02.02 (5:00PM ET) | 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79859
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: UFC | FIGHT NIGHT- CEJUDO VS DILLASHAW | EARLY PRELIMS | 01.19 (6:00PM ET) | 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79860
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: UFC | FIGHT NIGHT- CEJUDO VS DILLASHAW | MAINCARD | 01.19 (10:00PM ET) | 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79856
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: WRESTLING EVENT LINK 1 - WWE Royal Rumble (01.27 7pm ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79869
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: WRESTLING EVENT LINK 2 - WWE Royal Rumble (01.27 7pm ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79868
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: WRESTLING EVENT LINK 3 - OFFLINE
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79867
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: WRESTLING EVENT LINK 4 - OFFLINE
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79866
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", PPV: WRESTLING EVENT LINK 5 - OFFLINE
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79865
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 01 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79572
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 02 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79571
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 03 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79570
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 04 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79569
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 05 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79568
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 06 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79567
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 07 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79566
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 08 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79565
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 09 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79564
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", RUGBY PASS 10 HD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79563
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL 1 BACKUP: Rangers vs Dundee (09/15-15:00)*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79636
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL 1: Rangers vs Dundee (09/15-15:00)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79637
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: ABERDEEN TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79635
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: CELTIC TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79634
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: CELTIC TV BU (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79633
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: CELTIC TV BU2 (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79632
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: DUNDEE TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: Falkirk TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79622
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: HEARTS TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79630
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: HIBS TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79629
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: Kilmarnock TV (match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79623
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: PARTICK THISTLE TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: RAITH ROVERS TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79624
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: RANGERS TV (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: RANGERS TV BU (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79627
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPFL: RANGERS TV* (Match time Only)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79626
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="TV | USA Sports", US | ESPN | HD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79874
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="TV | USA Sports", US | ESPN 2 | HD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79877
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN 3 (MEX) | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79876
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="TV | USA Sports", US | ESPN U | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79875
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SOCCER PLUS | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79937
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS ARIZONA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79931
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS ATLANTA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79930
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS CAROLINAS | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79929
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS CINCINNATI | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79928
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS CLEVELAND | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79927
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS DEPORTES | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79926
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS FLORIDA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79924
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS INDIANA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79923
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS KANSAS CITY | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS MID WEST | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79921
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS NET | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79920
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS NEW ORLEANS | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79919
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS NORTH | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79917
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS NORTH ALT | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79918
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS OHIO | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79916
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS OKLAHOMA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79915
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS PRIME TICKET | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79914
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SAN DIEGO | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79913
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SOUTH | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79911
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SOUTH WEST | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79912
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SOUTHEAST | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79910
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SOUTHWEST  | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79908
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SOUTHWEST | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79909
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SPORTSTIME OHIO | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79907
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS SUN | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79906
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS TENNESSEE | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79905
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS WEST | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79904
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | FOX SPORTS WISCONSIN | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79903
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="TV | USA Sports", US | NBA TV | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79901
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="TV | USA Sports", US | NBA TV | HD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79900
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC Olympic Channel | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79897
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC SPORTS (Chicago) | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79896
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC SPORTS BAY AREA | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79895
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC SPORTS CALIFORNIA  | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79894
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC Sports CHICAGO | FHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79892
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | NBC SPORTS NEW ENGLAND | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79893
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | UFC FIGHT PASS | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79879
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | UFC FIGHT PASS | HD*
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79854
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | UFC FIGHT PASS | SD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79878
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | WWE  | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79864
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL 24/7 | UHD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79574
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", UFC 24/7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79853
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  Astro Sports 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91258
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  Astro Supersports 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91257
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  Astro Supersports 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91256
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  SKYNET SPORTS 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91255
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  SKYNET SPORTS 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91254
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  SKYNET SPORTS 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91253
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  SKYNET SPORTS 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91252
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US |  SKYNET SPORTS 6
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91251
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 720
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91288
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 721
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91287
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 722
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91286
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 723
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91285
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 724 -
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91284
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 725
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91283
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 726
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91282
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 727
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91281
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 728
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91280
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 729
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91279
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 730
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91278
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 731
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91277
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 732
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91276
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 733
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91275
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 734
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91274
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 735
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91273
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 736
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 737
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91271
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 738
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91270
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 739
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91269
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 740
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91268
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 741
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91267
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 742
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91266
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 743
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91265
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 744
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91264
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 745
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91263
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 746
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91262
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 747
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91261
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 748
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91260
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | MLB Extra Innings 749
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/91259
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 01
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98653
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 02
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 03
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 04
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98650
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 05
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98649
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 06
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98648
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 07
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98647
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 08
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98646
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 09
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98645
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98644
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98643
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98642
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98641
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98640
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98639
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 16
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98638
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 17
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98637
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 18
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98636
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 19
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98635
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 20
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98634
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 21
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98633
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 22
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98632
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 23
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 24
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98630
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 25
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98629
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 26
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 27
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98627
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 28
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98626
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 29
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 30
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98624
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 31
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98623
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 32
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98622
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 33
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98621
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 34
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98620
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 35
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98619
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 36
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98618
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 37
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98617
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 38
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98616
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 39
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98615
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 40
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98614
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 41
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98613
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 42
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98612
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 43
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98611
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 44
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98610
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 45
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98609
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 46
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98608
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 47
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98607
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 48
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98606
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", US | ESPN PLUS 49
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/98605
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 1 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79583
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 2 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79582
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 3 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79581
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 4 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79580
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 5 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79579
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 6 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79578
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 7 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79577
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 8 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79576
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", AFL LIVE 9 | UHD ( Live Events ONLY )
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/79575
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | ??? | FOX NFL KICKOFF
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105377
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | *****MLB EXTRA INNINGS*****
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105498
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | *****NBA LEAGUE PASS*****
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105303
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | *****NFL SUNDAY TICKET*****
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105378
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | ###### NFL GAME PASS CHANNEL LIST ######
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105325
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | ###### NFL SUNDAY TICKET CHANNEL LIST ######
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105304
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | FRIDAY NIGHT GAMES BELOW:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105306
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 721: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105448
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 722: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105447
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 723: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105446
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 724: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105445
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 725: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105444
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 726: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105443
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 727: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105442
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 728: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105441
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 729: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105440
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 730: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105439
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 731: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105438
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 732: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105437
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 733: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105436
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 734: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105435
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 735: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105434
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 736: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105433
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 737: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105432
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 738: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105431
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 739: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105430
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 740: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105429
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 741: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105428
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 742: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105427
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 743: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105426
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 744: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105425
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 745: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105424
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 746: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105423
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 747: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105422
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 748: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105421
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB 749: EXTRA INNINGS BASEBALL | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105420
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 1 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105419
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 1 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105418
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 10 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105401
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 10 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105400
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 11 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105399
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 11 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105398
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 12 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105397
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 12 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105396
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 13 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105395
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 13 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105394
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 14 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105393
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 14 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105392
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 15 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105391
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 15 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105390
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 16 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105389
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 16 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105388
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 17 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105387
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 17 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105386
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 18 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105385
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 18 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105384
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 19 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105383
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 19 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105382
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 2 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105417
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 2 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105416
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 20 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105381
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 20 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105380
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 3 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105415
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 3 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105414
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 4 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105413
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 4 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105412
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 5 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105411
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 5 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105410
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 6 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105409
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 6 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105408
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 7 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105407
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 7 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105406
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 8 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105405
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 8 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105404
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 9 (AWAY)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105403
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB GAME 9 (HOME)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105402
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105497
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105488
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105487
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105486
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105485
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105484
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105483
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 2
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105496
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 3
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105495
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 4
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105494
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 5
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105493
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 6
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105492
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 7
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105491
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 8
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105490
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB Spring Training 9
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105489
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105480
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105482
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: 1 Low BW
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105481
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Arizona Diamondbacks
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105478
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Atlanta Braves
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105477
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Baltimore Orioles
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105476
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Boston Red Sox
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105475
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Chicago Cubs
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105474
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Chicago White Sox
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105473
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Cincinnati Reds FS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105472
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Cleveland Indians
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105471
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Colorado Rockies
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105470
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Detroit Tigers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105469
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Houston Astros
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105468
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: KC Royals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105467
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: LA Angels
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105466
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: LA Dodgers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105465
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Low BW
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105479
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Miami Marlins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105464
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Milwakee Brewers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105463
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Minnesota Twins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105462
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: NY Mets
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105461
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: NY Yankees
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105460
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Oakland A's
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105459
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Philadelphia Phillies
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105458
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Pittsburgh Pirates
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105457
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Seattle Mariners
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105455
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: SF Giants
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105454
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: St. Louis Cardinals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105453
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: TB Rays
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105452
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Texas Rangers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105451
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Toronto Blue Jays
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105450
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MLB: Washington Nationals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105449
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | MONDAY NIGHT GAMES BELOW:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105305
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 1: 7PM Thunder @ Pacers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105271
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 10
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105262
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 11
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105261
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 12
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105260
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 13
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105259
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 14
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105258
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | nba 15
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105257
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 2: 7PM Cavaliers @ Magic
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105270
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 3: 7:30PM Kings @ Celtics
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105269
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 4: 8PM Lakers @ Raptors TNT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105268
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 5: 9PM Timberwolves @ Jazz
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105267
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 6: 10:30PM Mavericks @ Nuggets TNT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105266
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 7:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105265
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 750
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105256
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 751
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105255
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 752
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105254
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 753
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105253
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 754
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105252
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 755
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105251
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 756
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105250
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 757
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105249
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 758
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105248
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 759
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105247
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 760
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105246
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 761
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105245
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 762
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105244
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 763
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105243
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 764
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105242
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 765
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105241
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 766
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105240
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 767
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105239
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 768
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105238
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 8:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105264
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA 9:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105263
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA TV
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105302
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: ATLANTA HAWKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105301
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: BOSTON CELTICS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105300
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: BROOKLYN NETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105299
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: CHARLOTTE HORNETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105298
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: CHICAGO BULLS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105297
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: CLEVELAND CAVALIERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105296
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: DALLAS MAVERICKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105295
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: DENVER NUGGETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105294
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: DETROIT PISTONS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105293
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: GOLDEN STATE WARRIORS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105292
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: HOUSTON ROCKETS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105291
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: INDIANA PACERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105290
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: LOS ANGELES CLIPPERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105289
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: LOS ANGELES LAKERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105288
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: MEMPHIS GRIZZLIES
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105287
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: MIAMI HEAT
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105286
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: MILWAUKEE BUCKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105285
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: MINNESOTA TIMBERWOLVES
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105284
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: NEW ORLEANS PELICANS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105283
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: NEW YORK KNICKS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105282
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: OKLAHOMA CITY THUNDER
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105281
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: ORLANDO MAGIC
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105280
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: PHILADELPHIA 76ERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105279
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: PHOENIX SUNS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105278
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: PORTLAND TRAIL BLAZERS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105277
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: SACRAMENTO KINGS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105276
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: SAN ANTONIO SPURS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105275
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: TORONTO RAPTORS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105274
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: UTAH JAZZ
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105273
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NBA: WASHINGTON WIZARDS
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NCAA GAMEDAY MIX
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105379
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL | MIX 1
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105376
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 1: Dolphins at Bills (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105324
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 10: Bears at Vikings (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105315
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 11: Bengals at Steelers (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105314
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 12: Eagles at Redskins (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105313
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 13: Chargers at Broncos (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105312
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 14: 49ers at Rams (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105311
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 15: Cardinals at Seahawks (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105310
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 16: Colts at Titans (12.30-8:20PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105309
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 2: Lions at Packers (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105323
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 3: Jaguars at Texans (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105322
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 4: Jets at Patriots (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105321
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 5: Panthers at Saints (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105320
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 6: Cowboys at Giants (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105319
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 7: Falcons at Buccaneers (12.30-1PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105318
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 8: Browns at Ravens (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105317
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL Gamepass 9: Raiders at Chiefs (12.30-4:25PM ET)
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105316
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL PRESEASON MIX
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105326
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Arizona Cardinals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105371
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Atlanta Falcons
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105370
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Baltimore Ravens
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105369
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Buffalo Bills
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105368
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Carolina Panthers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105367
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Chicago Bears
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105366
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Cincinnati Bengals
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105365
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Cleveland Browns
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105364
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Dallas Cowboys
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105363
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Denver Broncos
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105362
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Detroit Lions
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105361
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Green Bay Packers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105360
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Houston Texans
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105359
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Indianapolis Colts
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105358
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Jacksonville Jaguars
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105357
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Kansas City Chiefs
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105356
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Los Angeles Chargers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105355
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Los Angeles Rams
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105354
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Miami Dolphins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105353
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Minnesota Vikings
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105352
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: New England Patriots
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105351
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: New Orleans Saints
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105350
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: New York Giants
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105349
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: New York Jets
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105348
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Oakland Raiders
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105347
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Philadelphia Eagles
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105346
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Pittsburgh Steelers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105345
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Red Zone Low BW
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105372
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: San Francisco 49ers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105344
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Seattle Seahawks
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105343
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 705 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105339
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 706 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105338
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 707 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105337
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 708 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105336
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 709 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105335
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 710 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105334
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 711 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105333
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 712 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105332
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 713 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105331
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 714 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105330
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 715 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105329
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 716 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105328
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: SUNDAY TICKET 717 | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105327
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Tampa Bay Buccaneers
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105342
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Tennessee Titans
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105341
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | NFL: Washington Redskins
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105340
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | SATURDAY NIGHT GAMES BELOW:
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105307
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | SUNDAY NIGHT GAMES BELOW
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105308
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | US: NFL Network | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105375
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | US: NFL NOW | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105374
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV | USA Sports", SPORTS | US: NFL REDZONE | HD
+http://z.iptvsubscription.org:80/TcD0FgXBz1/umDkx1qFjI/105373
+
+
