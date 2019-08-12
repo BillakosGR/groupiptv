@@ -3864,6 +3864,6 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",LIVE HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 
-#EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",LIVE2 HD
+#EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",Ajax vs PAOK
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 
