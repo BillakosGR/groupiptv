@@ -6,6 +6,12 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ 2", ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", TEST TV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", TEST TB
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ 2", OPEN TV
 https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8?fbclid=IwAR0wBPFqJfmSii2vP6cmVmPreub7QfY75VZ4ukvy2ioIbebd5Z8t8cpYzTg
 
