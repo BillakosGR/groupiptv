@@ -3862,8 +3862,8 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",OLYMPIAKOS
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+http://iptv.iptivihd.com:8000/qrjnwzah/YSf9i0k3o6/4326
 
