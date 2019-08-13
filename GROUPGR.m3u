@@ -105,12 +105,6 @@ https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EURONEW
 #EXTINF:-1, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/OaQ57Pu.png",EURONEWS BUP
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan35-1_rtp.sdp
 
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD
-https://www.youtube.com/watch?v=rdlulSBQPp8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/ZrD6GYb.png",ERT WORLD BUP
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb99-1ekhc8-1gfht1cq3
-
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
@@ -125,9 +119,6 @@ http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="http://i.imgur.com/3Juhubo.png",CBC TV MALL CY
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
-http://stream--13.vty.dailymotion.com/-16/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64-1-1-1-video=4-1-1-1-1-1.m3u8
 
 #EXTINF:-1, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/xTy-1Qww.gif",SBC
 http://xsbcgrx.api.channel.livestream.com/3.-1/playlist.m3u8
@@ -272,12 +263,6 @@ https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/4E.m3u8
 
 #EXTINF:-1, group-title="Radio and WEBTV" tvg-logo="http://i.imgur.com/UKdSX5z.png",WZRA KIDS
 mmsh://wpso.com:2-1-1/kids
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
-mms://media19.internet.gr/ParliamentTV-HQ
 
 #EXTINF:-1 group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
