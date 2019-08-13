@@ -4203,6 +4203,12 @@ http://iptv.iptivihd.com:8000/jahtchcg/ebJ2I3lg54/7334
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK 3
 http://iptv.iptivihd.com:8000/jahtchcg/ebJ2I3lg54/1729
 
+EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",OLYMPIAKOS 4
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/6448
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK 4
+http://ok2.se:8000/bORGReVrsQ/gOcRLmTBRo/4743
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 
