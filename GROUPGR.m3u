@@ -4193,10 +4193,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://iptv.iptivihd.com:8000/qrjnwzah/YSf9i0k3o6/4326
 
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",OLYMPIAKOS 2
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54960
 
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK 2
-http://iptv.iptivihd.com:8000/qrjnwzah/YSf9i0k3o6/4326
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54947
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
@@ -4314,3 +4314,87 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",DIKTYO TV
 https://59583158c050f.streamlock.net/7322/7322/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA CINEMA 1 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55018
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA CINEMA 2 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55017
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA CINEMA 3 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55016
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA CINEMA ACTION HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55006
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA PREMIERE 1 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55010
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA PREMIERE 2 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA PREMIERE 3 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55008
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA PREMIERE 4 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55007
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 1 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54961
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 2 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54960
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 24 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54956
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 3 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54959
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 4 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54958
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - NOVA SPORT 5 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54957
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE CINEMA 1 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55014
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE CINEMA 2 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55013
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE CINEMA 3 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/55012
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE HISTORY HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54989
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 1 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54947
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 2 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54946
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 3 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54945
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 4 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54944
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 5 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54943
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 6 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54942
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 7 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54941
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 8 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54940
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT 9 HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54939
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT HIGHLIGHTS HD
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54938
