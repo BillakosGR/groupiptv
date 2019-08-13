@@ -99,69 +99,6 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ 2", WZRA Kids
 mmsh://wpso.com:200/kids?MSWMExt=.asf
 
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT1.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/nbS3IKQ.png",ERT1 BUP 
-http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel-11/_definst_/live/stream2.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT2.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/gCFl7VI.png",ERT2 BUP 
-http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel-12geo/_definst_/live/stream2.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/-1Oz56bA.png ,ERT3
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ERT3.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/-1Oz56bA.png ,ERT3 BUP 
-http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA 
-http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/eY3xM5T.png",MEGA BUP 
-https://www.youtube.com/watch?v=2Y8qsS_xH2Y
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Pk6b6et.png",ANT1 BUP 2
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/UzJNech.png",ALPHA 
-http://193.92.37.235:1935/liveedge/live@72-1/master.m3u8?DVR
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/3-1uLkyA.png",STAR 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/STAR.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/3-1uLkyA.png",STAR BUP
-http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/SKAI.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/xYOQeIj.png",SKAI BUP 
-https://www.youtube.com/watch?v=fNkYiojNHlc
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/fojL2bG.png",E BUP
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ETV.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV
-http://stream.maktv.gr/i/live_1@3329-13/master.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP 2
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/MAKEDONIA.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART 
-https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/ART.m3u8
-
-#EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/Comxiil.png",ART BUP
-https://www.youtube.com/watch?v=b3OP-35Pc5-1
-
 #EXTINF:-1, group-title="ΛΟΙΠΑ" tvg-logo="",EURONEWS
 https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/m3u8/EURONEWS.m3u8
 
