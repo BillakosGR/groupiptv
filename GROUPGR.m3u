@@ -4192,6 +4192,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK
 http://iptv.iptivihd.com:8000/qrjnwzah/YSf9i0k3o6/4326
 
+#EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",OLYMPIAKOS 2
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+
+#EXTINF:-1 group-title="LIVE MATCH" tvg-name="" tvg-logo="",PAOK 2
+http://iptv.iptivihd.com:8000/qrjnwzah/YSf9i0k3o6/4326
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 
