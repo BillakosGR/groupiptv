@@ -342,7 +342,7 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/N1NbcYV.png",VOULI BUP
 mms://media19.internet.gr/ParliamentTV-HQ
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
+#EXTINF:-1 group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 
 #EXTINF:-1, group-title="ΛΟΙΠΑ" tvg-logo="http://i.imgur.com/n9-17AGO.png",EBS PLUS
