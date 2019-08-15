@@ -4387,3 +4387,9 @@ http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54939
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT HIGHLIGHTS HD
 http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54938
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", ARHS
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54947
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", AEK
+http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54960
