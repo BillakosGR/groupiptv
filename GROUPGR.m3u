@@ -4388,14 +4388,8 @@ http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54939
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VIP TEST", GR - COSMOTE SPORT HIGHLIGHTS HD
 http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54938
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", ARHS
-http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54947
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", OLYMPIAKOS
+http://5.254.66.136:2103/JTnpILWc7D/fbbsOl2P82/665
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", AEK
-http://bestiptv.tv:80/917451178891/PfsQEkBFvaUuOPI/54960
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", ARHS 2
-http://thebestof.ddns.net:8000/bill08/4PZl8TJlND/145132
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", AEK 2
-http://thebestof.ddns.net:8000/bill08/4PZl8TJlND/145181
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIVE MATCH", OLYMPIAKOS 2
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
